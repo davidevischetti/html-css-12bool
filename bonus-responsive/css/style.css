@@ -1,0 +1,28 @@
+/* STILE PAGINA */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.margin-b {
+    margin-bottom: 10px;
+}
+
+/* STILE COLONNE */
+.blue {
+    background-color: #06f;
+    color: #fff;
+    border: 1px solid #fff;
+    text-align: center;
+    padding: 10px;
+    min-height: 40px;
+}
+
+.green {
+    background-color: #0f6;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #06f ;
+}
