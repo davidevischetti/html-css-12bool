@@ -1,0 +1,34 @@
+/* STILE PAGINA */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+[class*="col-"] {
+    height: 1vh;
+}
+
+.red {
+    background-color: #a00;
+}
+
+.light-red {
+    background-color: #c00;
+}
+
+.dark-red {
+    background-color: #600;
+}
+
+.black {
+    background-color: #111;
+}
+
+.light-black {
+    background-color: #333;
+}
+
+.red-black {
+    background-color: #400;
+}
